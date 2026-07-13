@@ -1,72 +1,52 @@
 <div align="center">
-<pre>
-🟩  ░▒▓█  S A I . C H A N D U  //  A I  T E R M I N A L  █▓▒░  🟩
-╔══════════════════════════════════════════════════════════════════════╗
-║  ● SYSTEM: ONLINE        ● MODE: BUILD / TEST / SHIP        ● v1.0  ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
+  <img src="assets/sai-chandu-profile.png" width="150" alt="Sai Chandu" />
+
+  <h1>Sai Chandu</h1>
+
+  <p><strong>AI Engineer building reliable agentic systems, evaluation-first LLM workflows, and production-ready AI platforms.</strong></p>
+
+  <a href="https://github.com/Saichandu02?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-162033?style=flat-square&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="mailto:saichandu.me@gmail.com"><img src="https://img.shields.io/badge/Contact_me-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Contact Sai Chandu" /></a>
 </div>
 
-<pre>
-╭─[ 🟩 sai@agentic-lab ]─[ ~/identity ]────────────────────────────────╮
-│                                                                        │
-│                  ░░▓▓████████████▓▓░░                                 │
-│               ░▓██▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▓██▓░                               │
-│             ░██▓▒▒░░  ◉══════◉  ░░▒▒▓██░                             │
-│            ▓█▓▒▒░░      ╲ ▰ ╱      ░░▒▒▓█▓                            │
-│            ██▒▒░░      ░╲═══╱░      ░░▒▒██                            │
-│            ▓█▓▒▒░░    ░▒▓███▓▒░    ░░▒▒▓█▓                            │
-│             ░██▓▒▒▒▒▒▓██╲_╱██▓▒▒▒▒▒██░                                │
-│               ░▓██████▓░░░░░▓██████▓░                                 │
-│                                                                        │
-│  subject: Sai Chandu      signature: ◉═╤═◉  //  terminal portrait     │
-│  status : building reliable AI systems that survive production        │
-│                                                                        │
-╰────────────────────────────────────────────────────────────────────────╯
-</pre>
+<br />
 
-<p align="center">
-  <a href="https://saichandu.dev"><img src="https://img.shields.io/badge/PORTFOLIO-07140f?style=for-the-badge&logo=googlechrome&logoColor=56f09f" alt="Portfolio" /></a>
-  <a href="https://github.com/Saichandu02?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-07140f?style=for-the-badge&logo=github&logoColor=56f09f" alt="Projects" /></a>
-  <a href="mailto:saichandu.me@gmail.com"><img src="https://img.shields.io/badge/CONTACT-07140f?style=for-the-badge&logo=gmail&logoColor=56f09f" alt="Email" /></a>
-</p>
+## About
 
-## 🟩 whoami
+I build AI products that earn their place in real workflows. My focus is the work beyond a good demo: grounding model outputs in evidence, keeping humans in control of critical decisions, measuring quality, and shipping services that teams can observe and maintain.
 
-<pre>
-┌──(sai@agentic-lab)-[~/mission]
-└─$ ./about --no-fluff
+- **Agentic applications** — RAG, tool calling, structured outputs, and human-in-the-loop review.
+- **AI platform engineering** — APIs, cloud services, containerized deployments, CI/CD, and observability.
+- **Applied model optimization** — routing, evaluation, secure inference, and edge-friendly deployment.
 
-I engineer AI systems that are useful after the demo:
-human-approved workflows, measurable reasoning, secure evaluation,
-and private inference that teams can actually operate.
+## Selected work
 
-I care about the hard parts — evidence, guardrails, observability,
-deployment, rollback, and the person who has to trust the result.
-</pre>
+| Project | What it demonstrates |
+| --- | --- |
+| [Clinical Operations Agentic AI](https://github.com/Saichandu02/clinical-operations-agentic-ai) | Auditable AI workflows with evidence validation, human approval, and enterprise integrations. |
+| [Cognitive Reasoning Agent Framework](https://github.com/Saichandu02/cognitive-reasoning-agent-framework) | Dynamic LLM routing and bounded search trajectories for ambiguous compliance analysis. |
+| [Edge-Optimized Multimodal SLM](https://github.com/Saichandu02/edge-optimized-multimodal-slm) | Private, offline semantic retrieval designed for restricted environments. |
+| [Enterprise AI Red-Team Engine](https://github.com/Saichandu02/enterprise-ai-redteam-engine) | Continuous safety evaluation, PII safeguards, and CI release gates for AI applications. |
 
-## 🟩 stack --active
+## Core toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-07140f?style=for-the-badge&logo=python&logoColor=56f09f" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-07140f?style=for-the-badge&logo=openjdk&logoColor=56f09f" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-07140f?style=for-the-badge&logo=typescript&logoColor=56f09f" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-07140f?style=for-the-badge&logo=react&logoColor=56f09f" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-07140f?style=for-the-badge&logo=fastapi&logoColor=56f09f" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring_Boot-07140f?style=for-the-badge&logo=springboot&logoColor=56f09f" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/AWS-07140f?style=for-the-badge&logo=amazonaws&logoColor=56f09f" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-07140f?style=for-the-badge&logo=docker&logoColor=56f09f" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-07140f?style=for-the-badge&logo=kubernetes&logoColor=56f09f" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Python-162033?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-162033?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-162033?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/React-162033?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-162033?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring_Boot-162033?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/AWS-162033?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-162033?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-162033?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
 </p>
 
-## 🟩 ls ./flagship-builds
+## What I value
 
-- [Clinical Operations Agentic AI](https://github.com/Saichandu02/clinical-operations-agentic-ai) — human review, validated evidence, audit trails.
-- [Cognitive Reasoning Agent Framework](https://github.com/Saichandu02/cognitive-reasoning-agent-framework) — complexity-aware routing and bounded MCTS.
-- [Edge-Optimized Multimodal SLM](https://github.com/Saichandu02/edge-optimized-multimodal-slm) — offline semantic retrieval for restricted environments.
-- [Enterprise AI Red-Team Engine](https://github.com/Saichandu02/enterprise-ai-redteam-engine) — injection, PII, and CI release gates.
+**Useful over flashy. Measured over assumed. Secure by design.**<br />
+The best AI systems make decisions easier to understand, review, and improve.
 
 <div align="center">
-  <strong>▰ Build intelligence that teams can understand, trust, and operate. ▰</strong>
+  <sub>Open to applied AI and platform engineering opportunities.</sub>
 </div>
-
