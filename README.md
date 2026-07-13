@@ -41,29 +41,6 @@ I’m an AI engineer focused on human-reviewed workflows, LLM evaluation and saf
   <img src="https://img.shields.io/badge/Kubernetes-07140f?style=for-the-badge&logo=kubernetes&logoColor=56f09f" alt="Kubernetes" />
 </p>
 
-## Featured projects
-
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| [Clinical Operations Agentic AI](https://github.com/Saichandu02/clinical-operations-agentic-ai) | Human-approved workflows, validated evidence, audit trails | React · TypeScript · Spring Boot |
-| [Cognitive Reasoning Agent Framework](https://github.com/Saichandu02/cognitive-reasoning-agent-framework) | Complexity-aware routing and bounded MCTS trajectories | Python · FastAPI · LLM evaluation |
-| [Edge-Optimized Multimodal SLM](https://github.com/Saichandu02/edge-optimized-multimodal-slm) | Offline semantic retrieval and edge-runtime contracts | SQLite · ONNX · TensorRT-ready |
-| [Enterprise AI Red-Team Engine](https://github.com/Saichandu02/enterprise-ai-redteam-engine) | Prompt injection, PII controls, and CI release gates | FastAPI · AI security · CI/CD |
-
-## Proof of work
-
-[![Clinical workflow CI](https://github.com/Saichandu02/clinical-operations-agentic-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/Saichandu02/clinical-operations-agentic-ai/actions/workflows/ci.yml)
-[![Reasoning agent CI](https://github.com/Saichandu02/cognitive-reasoning-agent-framework/actions/workflows/ci.yml/badge.svg)](https://github.com/Saichandu02/cognitive-reasoning-agent-framework/actions/workflows/ci.yml)
-[![Edge SLM CI](https://github.com/Saichandu02/edge-optimized-multimodal-slm/actions/workflows/ci.yml/badge.svg)](https://github.com/Saichandu02/edge-optimized-multimodal-slm/actions/workflows/ci.yml)
-[![Red-team engine CI](https://github.com/Saichandu02/enterprise-ai-redteam-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/Saichandu02/enterprise-ai-redteam-engine/actions/workflows/ci.yml)
-
-## Contact
-
-<pre><code>{
-  "portfolio": "saichandu.dev",
-  "github": "github.com/Saichandu02",
-  "status": "open to applied AI and platform engineering opportunities"
-}</code></pre>
 
 > Build intelligence that teams can understand, trust, and operate.
 
